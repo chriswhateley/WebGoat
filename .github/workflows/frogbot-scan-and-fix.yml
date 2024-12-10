@@ -17,6 +17,7 @@ permissions:
   contents: write
   pull-requests: write
   security-events: write
+  checks: write
 jobs:
   create-fix-pull-requests:
     runs-on: ubuntu-latest
