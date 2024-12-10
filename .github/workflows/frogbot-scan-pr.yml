@@ -16,6 +16,7 @@ on:
 permissions:
   pull-requests: write
   security-events: write
+  checks: write
   contents: read
 jobs:
   scan-pull-request:
