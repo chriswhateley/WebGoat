@@ -12,6 +12,8 @@
 
 [![Frogbot Scan Pull Request](https://github.com/chriswhateley/WebGoat/actions/workflows/frogbot-scan-pr.yml/badge.svg)](https://github.com/chriswhateley/WebGoat/actions/workflows/frogbot-scan-pr.yml)
 
+[![Frogbot Scan and Fix](https://github.com/chriswhateley/WebGoat/actions/workflows/frogbot-scan-and-fix.yml/badge.svg)](https://github.com/chriswhateley/WebGoat/actions/workflows/frogbot-scan-and-fix.yml)
+
 # Introduction
 
 WebGoat is a deliberately insecure web application maintained by [OWASP](http://www.owasp.org/) designed to teach web
