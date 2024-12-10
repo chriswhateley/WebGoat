@@ -15,6 +15,7 @@ on:
     types: [ opened, synchronize ]
 permissions:
   pull-requests: write
+  security-events: write
   contents: read
 jobs:
   scan-pull-request:
